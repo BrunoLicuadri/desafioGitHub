@@ -9,6 +9,9 @@ public class Program {
 		System.out.println("para n perder tempo que quero avancar logo aprender logo,");
 		System.out.println("commit nele ^^");
 		System.out.println();
+		System.out.println("Vai começar a aula ao vivo. Preciso ir.");
+		System.out.println("Esse é o terceiro commit entao desafio concluiudo. Eu acho.");
+		System.out.println();
 
 	}
 
